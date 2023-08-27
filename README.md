@@ -1,7 +1,7 @@
 # MyLearningExperience
 Repository ini berisi tentang pengalaman belajarku seputar programming,etc
 
-**25 Agustus 2023**
+**25 Agustus 2023**  
 Belajar Dasar Git dengan GitHub. (Progress 1%)
 * Membuat akun GitHub
 * Mensetting akun GitHub
